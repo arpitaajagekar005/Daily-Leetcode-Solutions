@@ -3,15 +3,14 @@ class Solution {
         int[] idx=new int[2];
         for(int i=0;i<nums.length;i++){
         int Deff=target-nums[i]; 
-        int j=i+1;
-        while(j<nums.length){
+        for(int j=i+1;j<nums.length;j++){
             if(Deff==nums[j]){
                 idx[0]=i;
                 idx[1]=j;
+                 return idx;
             }
-            j++;
         }
        }
-       return idx;
+      return idx;
     }
 }
