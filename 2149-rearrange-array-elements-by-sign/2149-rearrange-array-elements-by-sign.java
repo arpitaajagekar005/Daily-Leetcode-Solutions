@@ -1,7 +1,7 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int[] pos=new int[nums.length];
-        int[] neg=new int[nums.length];
+        int[] pos=new int[nums.length/2];
+        int[] neg=new int[nums.length/2];
         int pidx=0;
         int nidx=0;
         for(int i=0;i<nums.length;i++){
@@ -12,16 +12,9 @@ class Solution {
                 neg[nidx++]=nums[i];
             }
         }
-        int idx=0;
-        int i=0;
-        int j=0;
-        while(idx<nums.length){
-            if(idx%2==0){
-                nums[idx]=pos[i++];
-            }else{
-                nums[idx]=neg[j++];
-            }
-            idx++;
+        for(int i=0;i<pos.length;i++){
+            nums[i*2]=pos[i];
+            nums[i*2+1]=neg[i];
         }
         return nums;
     }
