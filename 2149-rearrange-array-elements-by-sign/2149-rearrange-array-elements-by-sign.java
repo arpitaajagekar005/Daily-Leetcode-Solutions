@@ -4,7 +4,6 @@ class Solution {
         int[] neg=new int[nums.length];
         int pidx=0;
         int nidx=0;
-        int[] res=new int[nums.length];
         for(int i=0;i<nums.length;i++){
             if(nums[i]>0){
                 pos[pidx++]=nums[i];
@@ -18,12 +17,12 @@ class Solution {
         int j=0;
         while(idx<nums.length){
             if(idx%2==0){
-                res[idx]=pos[i++];
+                nums[idx]=pos[i++];
             }else{
-                res[idx]=neg[j++];
+                nums[idx]=neg[j++];
             }
             idx++;
         }
-        return res;
+        return nums;
     }
 }
