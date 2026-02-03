@@ -6,12 +6,15 @@ class Solution {
             if(nums[i]!=0){
                 count++;
             }else{
+                if(check<count){
+                    check=count;
+                }
                 count=0;
             }
-            if(check<count){
+        }
+        if(check<count){
                 check=count;
             }
-        }
         return check;
     }
 }
