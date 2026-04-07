@@ -6,6 +6,7 @@ My Daily Leetcode problem  Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -39,4 +40,12 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
