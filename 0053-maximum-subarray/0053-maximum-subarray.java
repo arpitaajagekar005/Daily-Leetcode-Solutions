@@ -1,15 +1,19 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int currentSum = nums[0];
-        int maxSum = nums[0];
+        int count = 0;
+        int check =nums[0];
 
-        for (int i = 1; i < nums.length; i++) {
-            // Either take current element alone or extend previous subarray
-            currentSum = Math.max(nums[i], currentSum + nums[i]);
-            
-            // Update maximum sum
-            maxSum = Math.max(maxSum, currentSum);
+        for(int i=0; i < nums.length; i++){
+            count += nums[i];
+
+            if(check < count){
+            check = count;
+            }
+                
+            if(count < 0){
+                count = 0;
+            }
         }
-        return maxSum;
+        return check;
     }
 }
