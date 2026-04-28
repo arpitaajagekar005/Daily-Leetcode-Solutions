@@ -9,12 +9,13 @@ class Solution {
             if(buy > prices[i]){
                 buy = prices[i];
             }
-
-            int sell = prices[i];
-            check = sell - buy;
-
-            if(check > profit){
-                profit = check;
+            else{
+                int sell = prices[i];
+                check = sell - buy;
+    
+                if(check > profit){
+                    profit = check;
+                }
             }
         }
         return profit;
