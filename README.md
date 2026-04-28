@@ -8,6 +8,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -50,4 +51,5 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
