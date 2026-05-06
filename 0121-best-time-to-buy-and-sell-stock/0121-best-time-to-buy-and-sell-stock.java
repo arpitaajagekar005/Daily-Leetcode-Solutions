@@ -5,7 +5,7 @@ class Solution {
         int profit = 0;
         int check = 0;
 
-        for(int i = 1; i <= n; i++){
+        for(int i = 0; i <= n; i++){
             if(buy > prices[i]){
                 buy = prices[i];
             }
