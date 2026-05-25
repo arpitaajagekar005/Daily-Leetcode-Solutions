@@ -7,6 +7,7 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -69,5 +70,10 @@ My Daily Leetcode problem  Solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
