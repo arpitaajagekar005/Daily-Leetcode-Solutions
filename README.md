@@ -65,6 +65,7 @@ My Daily Leetcode problem  Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -88,4 +89,5 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
