@@ -6,15 +6,11 @@ class Solution {
         int count = 0;
 
         for(int i = n-1; i >= 0; i--){
-
-            if(count < 2){
-                tot_cost += cost[i];
-                count++;
-            }
-            else{
-                count = 0;
-            }
-            
+            tot_cost += cost[i];
+            count++;
+            if(count%2 == 0){
+                i--;
+            }   
         }
         return tot_cost;
     }
