@@ -20,6 +20,7 @@ My Daily Leetcode problem  Solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,8 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
