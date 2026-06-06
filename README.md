@@ -7,6 +7,7 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -48,6 +49,7 @@ My Daily Leetcode problem  Solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0015-3sum/) | Medium |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -67,6 +69,7 @@ My Daily Leetcode problem  Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0015-3sum/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
