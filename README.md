@@ -8,6 +8,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0015-3sum/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -89,6 +90,7 @@ My Daily Leetcode problem  Solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
