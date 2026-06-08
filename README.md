@@ -97,6 +97,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -106,4 +107,8 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
