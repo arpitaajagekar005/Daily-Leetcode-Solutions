@@ -41,6 +41,7 @@ My Daily Leetcode problem  Solutions
 | [0073-set-matrix-zeroes](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -73,6 +74,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
@@ -98,6 +100,7 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0707-design-linked-list/) | Medium |
