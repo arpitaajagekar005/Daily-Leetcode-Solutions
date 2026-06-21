@@ -33,6 +33,7 @@ My Daily Leetcode problem  Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -117,4 +118,8 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0707-design-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
