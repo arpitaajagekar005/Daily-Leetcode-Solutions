@@ -33,6 +33,7 @@ My Daily Leetcode problem  Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Hash Table
@@ -76,6 +77,7 @@ My Daily Leetcode problem  Solutions
 | [0015-3sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
