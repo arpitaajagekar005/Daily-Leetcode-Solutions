@@ -36,6 +36,7 @@ My Daily Leetcode problem  Solutions
 | [0151-reverse-words-in-a-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ My Daily Leetcode problem  Solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
