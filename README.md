@@ -15,6 +15,7 @@ My Daily Leetcode problem  Solutions
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -103,6 +104,7 @@ My Daily Leetcode problem  Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
