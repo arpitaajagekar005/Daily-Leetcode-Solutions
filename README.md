@@ -18,6 +18,7 @@ My Daily Leetcode problem  Solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -105,6 +106,7 @@ My Daily Leetcode problem  Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
