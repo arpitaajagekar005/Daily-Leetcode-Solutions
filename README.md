@@ -16,6 +16,7 @@ My Daily Leetcode problem  Solutions
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -56,6 +57,7 @@ My Daily Leetcode problem  Solutions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0078-subsets/) | Medium |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -139,4 +141,8 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
