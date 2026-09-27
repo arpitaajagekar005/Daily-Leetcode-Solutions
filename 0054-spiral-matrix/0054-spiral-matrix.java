@@ -1,12 +1,10 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int rows = matrix.length;
-        int cols= matrix[0].length;
         List<Integer> result = new ArrayList<>();
         int top = 0;
-        int bottom = rows-1;
+        int bottom = matrix.length-1;
         int left = 0;
-        int right = cols-1;
+        int right = matrix[0].length-1;
 
         while(top<=bottom && left<=right){
          for(int i=left; i<=right; i++){
