@@ -41,6 +41,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -52,6 +53,7 @@ My Daily Leetcode problem  Solutions
 | [0128-longest-consecutive-sequence](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
