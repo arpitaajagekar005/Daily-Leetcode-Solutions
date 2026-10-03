@@ -3,7 +3,8 @@ class Solution {
         int n = s.length();
         int r = 0;
         for(int i = 0; i <= n; i++){
-            if(rotate(s , i).equals(goal)){
+            String rotated = rotate(s , i);
+            if(rotated.equals(goal)){
                 return true;
             }
         }
