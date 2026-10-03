@@ -10,7 +10,6 @@ class Solution {
         return false;
     }
     public static String rotate(String s, int r){
-        r = r % s.length();
 
         return s.substring(r) + s.substring(0,r);
 
