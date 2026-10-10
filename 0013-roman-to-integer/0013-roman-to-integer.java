@@ -10,7 +10,8 @@ class Solution {
             'M', 1000
         );
         int num = 0;
-        for(int i = 1; i < s.length(); i++){
+        int l = s.length();
+        for(int i = 1; i < l; i++){
             if(map.get(s.charAt(i - 1)) < map.get(s.charAt(i))){
                 num -= map.get(s.charAt(i - 1));
             }
@@ -18,7 +19,7 @@ class Solution {
                 num += map.get(s.charAt(i - 1));
             }
         }
-        num += map.get(s.charAt(s.length() - 1));
+        num += map.get(s.charAt(l - 1));
 
         return num;
 
