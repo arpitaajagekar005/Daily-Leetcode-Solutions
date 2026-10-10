@@ -10,15 +10,12 @@ class Solution {
             'M', 1000
         );
         int num = 0;
-        int i = 1;
-        while(i < s.length()){
+        for(int i = 1; i < s.length(); i++){
             if(map.get(s.charAt(i - 1)) < map.get(s.charAt(i))){
                 num -= map.get(s.charAt(i - 1));
-                i++;
             }
             else{
                 num += map.get(s.charAt(i - 1));
-                i++;
             }
         }
         num += map.get(s.charAt(s.length() - 1));
