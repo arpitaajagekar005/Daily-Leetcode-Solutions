@@ -1,23 +1,21 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        List<List<Integer>> res = new ArrayList<>();
-        rec( 0, nums, new ArrayList<>(), res);
-        return res;
+        List<List<Integer>> s = new ArrayList<>();
+        List<Integer> l = new ArrayList<>();
+        incOrNot(0, nums, l, s);
+        return s;
         
     }
-    void rec(int i, int[] nums, List<Integer> curr, List<List<Integer>> res){
-        
-        if(i >= nums.length){
-            res.add(new ArrayList<>(curr));
-            return;
+    private static List<List<Integer>> incOrNot(int index, int[] nums, List<Integer> l, List<List<Integer>> s){
+        if(index == nums.length){
+            s.add(new ArrayList<>(l));
+            return s;
         }
-        curr.add(nums[i]);
-        rec(i + 1, nums, curr, res);
-
-        curr.remove(curr.size() - 1);
-        rec(i + 1, nums, curr, res);
         
-
+        l.add(nums[index]);
+        incOrNot(index + 1, nums, l, s);
+        l.remove(l.size() - 1);
+        incOrNot(index + 1, nums, l, s);
+        return s;
     }
 }
