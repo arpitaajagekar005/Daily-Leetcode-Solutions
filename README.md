@@ -41,6 +41,7 @@ My Daily Leetcode problem  Solutions
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -90,6 +91,7 @@ My Daily Leetcode problem  Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
@@ -159,6 +161,7 @@ My Daily Leetcode problem  Solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0078-subsets/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -172,4 +175,8 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
