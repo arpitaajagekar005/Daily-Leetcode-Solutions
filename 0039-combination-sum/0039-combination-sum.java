@@ -16,10 +16,8 @@ class Solution {
         }
 
         l.add(cand[i]);
-        t -= cand[i];
-        combine(i, cand, res, l, t);
+        combine(i, cand, res, l, t - cand[i]);
         l.remove(l.size() - 1);
-        t += cand[i];
         combine(i + 1, cand, res, l, t);
         return;
     } 
