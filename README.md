@@ -24,6 +24,7 @@ My Daily Leetcode problem  Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -167,6 +168,7 @@ My Daily Leetcode problem  Solutions
 | [0039-combination-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0078-subsets/) | Medium |
+| [0216-combination-sum-iii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
