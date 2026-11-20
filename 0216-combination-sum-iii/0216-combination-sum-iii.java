@@ -6,13 +6,11 @@ class Solution {
     }
 
     private void combineSum( int idx, ArrayList<Integer> currentSum, List<List<Integer>> sum, int n, int k, int i){
-        if(idx == k){
-            if(n == 0){
-                sum.add(new ArrayList<>(currentSum));
-                return;
-            }
+        if(currentSum.size() == k && n == 0){
+            sum.add(new ArrayList<>(currentSum));
+            return;
         }
-        if(n < i){
+        if(currentSum.size() == k || n < i){
             return;
         }
         if(i <= 9){
