@@ -16,6 +16,7 @@ My Daily Leetcode problem  Solutions
 | [0039-combination-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -170,6 +171,7 @@ My Daily Leetcode problem  Solutions
 | [0022-generate-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## String Matching
@@ -188,4 +190,8 @@ My Daily Leetcode problem  Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/arpitaajagekar005/Leetcode-java-solutions/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
